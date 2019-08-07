@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1ccXuv4KZ1ndNFKwNuXpTgvgMgvQ16joUI408v232a9I/edit#gid=0
+
 # /var/log/messages (RedHat) or /var/log/syslog (Debian)
 
 This log file contains generic system activity logs. It is mainly used to store informational and non-critical system messages.
